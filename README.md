@@ -1,20 +1,25 @@
 # 🚀 Python Space Shooting Game
 
-A 2D space shooter game built using Python.
+A 2D space shooting game built using Python where the player controls a spaceship, destroys enemy ships, and avoids collisions while surviving waves of attacks.
 
 ## Features
-- Player controlled spaceship
+- Player-controlled spaceship
 - Enemy spawning system
 - Shooting mechanics
 - Collision detection
-- Player & enemy health system
+- Player and enemy health system
 
-## Version
-v1.0 – Initial release
+## Requirements
+Make sure you have Python installed and install the required library:
 
-## How to Run
-1. Install Python
-2. Install required libraries
-3. Run:
+pip install arcade
+
+## How to Run the Game
+1. Clone the repository
+2. Install the required library
+3. Run the game:
 
 python main.py
+
+## Version
+v1.0 – Initial release of the Space Shooting Game
